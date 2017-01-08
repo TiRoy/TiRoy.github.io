@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://tiroy.top/"/>
-  <updated>2017-01-07T08:46:51.644Z</updated>
+  <updated>2017-01-08T11:50:21.633Z</updated>
   <id>http://tiroy.top/</id>
   
   <author>
@@ -16,28 +16,28 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>hello</title>
-    <link href="http://tiroy.top/2017/01/07/hello/"/>
-    <id>http://tiroy.top/2017/01/07/hello/</id>
-    <published>2017-01-07T08:32:49.000Z</published>
-    <updated>2017-01-07T08:46:51.644Z</updated>
+    <title></title>
+    <link href="http://tiroy.top/2017/01/08/First/"/>
+    <id>http://tiroy.top/2017/01/08/First/</id>
+    <published>2017-01-08T11:32:35.479Z</published>
+    <updated>2017-01-08T11:50:21.633Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="the-first-title"><a href="#the-first-title" class="headerlink" title="the first title"></a>the first title</h1><h2 id="the-second-title"><a href="#the-second-title" class="headerlink" title="the second title"></a>the second title</h2><h3 id="third"><a href="#third" class="headerlink" title="third"></a>third</h3><ul>
-<li>first</li>
-<li>second </li>
-<li>third</li>
+    <content type="html"><![CDATA[<h1 id="2017信息安全书单"><a href="#2017信息安全书单" class="headerlink" title="  2017信息安全书单"></a><center>  2017信息安全书单</center></h1><ul>
+<li>黑客大曝光（除了好多版了，也算是各种手段的一个集合吧）</li>
+<li>XSS跨站脚本攻击剖析与防御（被称为最没用攻击手段，but它好玩啊）</li>
+<li>Python灰帽子（不用说，世界上最好的语言）</li>
+<li>Linux命令行与shell脚本编程大全（Linux不用多说）</li>
+<li>javascript dom 编程艺术（web必备啊）</li>
+<li>未完，想续再续。。。</li>
 </ul>
-<ol>
-<li>1</li>
-<li>2</li>
-<li>3</li>
-</ol>
-<p><a href="https://baidu.com" target="_blank" rel="external">baidu</a></p>
+<p>现在有很多感慨，还是好好学点东西来的实在。</p>
+<p>说实话，Hexo确实比Wordpress漂亮很多，markdown也很好用的。<br>会一直完善博客，加上评论（找个中意的系统），加上一些留言等功能，想要友情链接的，请联系我，不要手续费哦！</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;h1 id=&quot;the-first-title&quot;&gt;&lt;a href=&quot;#the-first-title&quot; class=&quot;headerlink&quot; title=&quot;the first title&quot;&gt;&lt;/a&gt;the first title&lt;/h1&gt;&lt;h2 id=&quot;the-second-ti
+      &lt;h1 id=&quot;2017信息安全书单&quot;&gt;&lt;a href=&quot;#2017信息安全书单&quot; class=&quot;headerlink&quot; title=&quot;  2017信息安全书单&quot;&gt;&lt;/a&gt;&lt;center&gt;  2017信息安全书单&lt;/center&gt;&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;黑客大曝光（除了好多版
     
     </summary>
     
