@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://tiroy.top/"/>
-  <updated>2017-01-08T11:55:38.636Z</updated>
+  <updated>2017-01-09T03:36:40.973Z</updated>
   <id>http://tiroy.top/</id>
   
   <author>
@@ -20,9 +20,10 @@
     <link href="http://tiroy.top/2017/01/08/First/"/>
     <id>http://tiroy.top/2017/01/08/First/</id>
     <published>2017-01-08T11:52:14.000Z</published>
-    <updated>2017-01-08T11:55:38.636Z</updated>
+    <updated>2017-01-09T03:36:40.973Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="2017信息安全书单"><a href="#2017信息安全书单" class="headerlink" title="  2017信息安全书单"></a><center>  2017信息安全书单</center></h1><ul>
+    <content type="html"><![CDATA[<h1 id="2017信息安全书单"><a href="#2017信息安全书单" class="headerlink" title="  2017信息安全书单"></a><center>  2017信息安全书单</center></h1><a id="more"></a>
+<ul>
 <li>黑客大曝光（出了好多版了，也算是各种手段的一个集合吧）</li>
 <li>XSS跨站脚本攻击剖析与防御（被称为最没用攻击手段，but它好玩啊）</li>
 <li>Python灰帽子（不用说，世界上最好的语言）</li>
@@ -36,8 +37,7 @@
     
     <summary type="html">
     
-      &lt;h1 id=&quot;2017信息安全书单&quot;&gt;&lt;a href=&quot;#2017信息安全书单&quot; class=&quot;headerlink&quot; title=&quot;  2017信息安全书单&quot;&gt;&lt;/a&gt;&lt;center&gt;  2017信息安全书单&lt;/center&gt;&lt;/h1&gt;&lt;ul&gt;
-&lt;li&gt;黑客大曝光（出了好多版
+      &lt;h1 id=&quot;2017信息安全书单&quot;&gt;&lt;a href=&quot;#2017信息安全书单&quot; class=&quot;headerlink&quot; title=&quot;  2017信息安全书单&quot;&gt;&lt;/a&gt;&lt;center&gt;  2017信息安全书单&lt;/center&gt;&lt;/h1&gt;
     
     </summary>
     
