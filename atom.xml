@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://tiroy.top/"/>
-  <updated>2017-01-10T12:13:23.819Z</updated>
+  <updated>2017-01-10T12:33:24.384Z</updated>
   <id>http://tiroy.top/</id>
   
   <author>
@@ -17,12 +17,12 @@
   
   <entry>
     <title>NewYear_2017</title>
-    <link href="http://tiroy.top/2017/01/08/First/"/>
-    <id>http://tiroy.top/2017/01/08/First/</id>
+    <link href="http://tiroy.top/Essay/2017-01-08-First.html"/>
+    <id>http://tiroy.top/Essay/2017-01-08-First.html</id>
     <published>2017-01-08T11:52:14.000Z</published>
-    <updated>2017-01-10T12:13:23.819Z</updated>
+    <updated>2017-01-10T12:33:24.384Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="My-信息安全书单"><a href="#My-信息安全书单" class="headerlink" title="My.信息安全书单"></a>My.信息安全书单</h2><p>（原本打算17年看完的，现在看来，好像有点多，先换个名字吧，ok，不急.不急）</p>
+    <content type="html"><![CDATA[<p> My.信息安全书单<br>（原本打算17年看完的，现在看来，好像有点多，先换个名字吧，ok，不急.不急）</p>
 <ul>
 <li>黑客大曝光（出了好多版了，也算是各种手段的一个集合吧）</li>
 <li>XSS跨站脚本攻击剖析与防御（被称为最没用攻击手段，but它好玩啊）</li>
@@ -48,7 +48,10 @@
     
     <summary type="html">
     
-      &lt;h2 id=&quot;My-信息安全书单&quot;&gt;&lt;a href=&quot;#My-信息安全书单&quot; class=&quot;headerlink&quot; title=&quot;My.信息安全书单&quot;&gt;&lt;/a&gt;My.信息安全书单&lt;/h2&gt;&lt;p&gt;（原本打算17年看完的，现在看来，好像有点多，先换个名字吧，ok，不急.不急）&lt;/p
+      &lt;p&gt; My.信息安全书单&lt;br&gt;（原本打算17年看完的，现在看来，好像有点多，先换个名字吧，ok，不急.不急）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;黑客大曝光（出了好多版了，也算是各种手段的一个集合吧）&lt;/li&gt;
+&lt;li&gt;XSS跨站脚本攻击剖析与防御（被称为最没用攻击手段，but它好玩啊
     
     </summary>
     
